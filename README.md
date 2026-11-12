@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Weskin 👋
 
-<!--
-**weskkin/weskkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring cybersecurity analyst building hands-on homelabs to sharpen blue team & threat intelligence skills.
 
-Here are some ideas to get you started:
+## 🔬 Cybersecurity Homelab Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🍯 Cowrie Honeypot Lab](link) | Deployed an SSH/Telnet honeypot on Azure, captured 19K+ real attack events in 16h, analyzed with Python/Pandas & GeoIP | Cowrie, Azure, Python, Pandas, MITRE ATT&CK |
+| [🛡️ Wazuh SIEM Homelab](link) | Built a full SIEM deployment with log ingestion, alerting, and dashboard monitoring | Wazuh, Ubuntu Server, VirtualBox |
+| [📊 Log Analysis Lab](link) | Parsed and investigated security logs to identify indicators of compromise | Python, Log Parsing, IOC Detection |
+| [🎣 Phishing Email Analysis](link) | Dissected real phishing emails — header analysis, URL inspection, payload extraction | Email Headers, VirusTotal, Sandbox |
+
+## 🛠️ Skills & Tools
+
+`Linux` `Python` `Wireshark` `Wazuh` `Azure` `VirtualBox` `Cowrie` `Pandas` `MITRE ATT&CK`
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mohamed-ouail-islam-douar-b93ab13b4/)
